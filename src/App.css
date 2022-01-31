@@ -1,0 +1,54 @@
+
+
+html{
+  width: 100%;
+  min-height:100%;
+
+}
+
+.App{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(236, 236, 236);
+  padding: 3rem;
+  min-height: 100vh;
+}
+
+h1{
+  font-size: 4rem;
+}
+
+.breweryCard{
+  background-color: rgb(253, 253, 253);
+
+  width: 15rem;
+  height: 15rem;
+  border-radius: 15px;
+  border:rgb(199, 136, 0) 1px solid;
+  box-shadow: slategray 3px 5px 25px -5px;
+  padding: 1rem;
+  margin: 2rem 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cardContainer{
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 2rem;
+}
+
+input{
+  padding: 1rem 1rem;
+  border-radius: 50px;
+  max-width: 500px;
+  width: 50%;
+  border: 1px rgb(199, 136, 0) solid
+}
+
+input:focus{
+  outline: none;
+}
