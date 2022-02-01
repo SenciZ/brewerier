@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/brewerier/static/css/main.77c9de87.chunk.css",
+    "main.js": "/brewerier/static/js/main.a06ea896.chunk.js",
+    "main.js.map": "/brewerier/static/js/main.a06ea896.chunk.js.map",
+    "runtime-main.js": "/brewerier/static/js/runtime-main.4c9874a2.js",
+    "runtime-main.js.map": "/brewerier/static/js/runtime-main.4c9874a2.js.map",
+    "static/js/2.9bf3e907.chunk.js": "/brewerier/static/js/2.9bf3e907.chunk.js",
+    "static/js/2.9bf3e907.chunk.js.map": "/brewerier/static/js/2.9bf3e907.chunk.js.map",
+    "index.html": "/brewerier/index.html",
+    "precache-manifest.bb850308ce86a30d38ac5fcc8685baba.js": "/brewerier/precache-manifest.bb850308ce86a30d38ac5fcc8685baba.js",
+    "service-worker.js": "/brewerier/service-worker.js",
+    "static/css/main.77c9de87.chunk.css.map": "/brewerier/static/css/main.77c9de87.chunk.css.map",
+    "static/js/2.9bf3e907.chunk.js.LICENSE.txt": "/brewerier/static/js/2.9bf3e907.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c9874a2.js",
+    "static/js/2.9bf3e907.chunk.js",
+    "static/css/main.77c9de87.chunk.css",
+    "static/js/main.a06ea896.chunk.js"
+  ]
+}

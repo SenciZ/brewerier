@@ -21,7 +21,7 @@ function App() {
       <input onChange={ e => setSearchWord(e.target.value)} type='text' placeholder='Search breweries by keyword, city, state, or zip'></input>
       <div className='cardContainer'>
 
-      {breweries.map((item,index)=> <div className="breweryCard" key={index}><h3>{item.name}</h3><p>{item.city}, {item.state}</p></div>)}
+      {breweries.map((item,index)=> <div className="breweryCard" key={index}><h3 className='breweryName'>{item.name}</h3><h4>{item.city}, {item.state}</h4></div>)}
       </div>
     </div>
   );
